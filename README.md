@@ -37,7 +37,7 @@
 ## 설치
 
 ```bash
-git clone https://github.com/AItinkerer0/deep-verify ~/.claude/skills/deep-verify
+git clone https://github.com/tinkerer0/deep-verify ~/.claude/skills/deep-verify
 ```
 → Claude Code 새 세션에서 **"딥검증"** 또는 **"deep-verify"**라고 하면 발동합니다.
 (또는 이 repo를 받아 `deep-verify` 폴더를 `~/.claude/skills/` 안에 두어도 됩니다.)
